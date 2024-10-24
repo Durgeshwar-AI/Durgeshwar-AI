@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Durgeshwar-AI/Durgeshwar-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]()
+
+<h1 align="center">Hello 🌏, I'm Durgeshwar Kumar Shaw</h1>
+<h3 align="center">Aspiring Software Developer | Passionate About Technology </h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Durgeshwar-AI&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="Durgeshwar-AI" /> </p>
+
+
+<h3 align="left">Languages</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,py,java" />
+
+<h3 align="left">Frameworks</h3>
+<img src="https://skillicons.dev/icons?i=materialui,react,tailwind,nodejs,expressjs,mongodb" />
+
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&locale=en&theme=radical" alt="Durgeshwar-AI" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Durgeshwar-AI&theme=radical" alt="Durgeshwar-AI" /></p>-->
