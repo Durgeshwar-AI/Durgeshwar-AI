@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3 align="left">Frameworks</h3>
 <img src="https://skillicons.dev/icons?i=materialui,react,tailwind,nodejs,expressjs,mongodb" />
 
-<h3 align="left">HacktoberFest 2024</h3>
+<h3 align="left">Holopin Badges</h3>
 <a href="https://holopin.io/@durgeshwarai">
     <img src="https://holopin.me/durgeshwarai" alt="An image of @durgeshwarai's Holopin badges, which is a link to view their full Holopin profile">
 </a>
