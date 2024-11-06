@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=materialui,react,tailwind,nodejs,expressjs,mongodb" />
 
 <h3 align="left">HacktoberFest 2024</h3>
-[![An image of @durgeshwarai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/durgeshwarai)](https://holopin.io/@durgeshwarai)
+<a href="https://holopin.io/@durgeshwarai">
+    <img src="https://holopin.me/durgeshwarai" alt="An image of @durgeshwarai's Holopin badges, which is a link to view their full Holopin profile">
+</a>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&locale=en&theme=radical" alt="Durgeshwar-AI" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Durgeshwar-AI&theme=radical" alt="Durgeshwar-AI" /></p>-->
