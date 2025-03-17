@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 <h3 align="left">Frameworks</h3>
 <img src="https://skillicons.dev/icons?i=materialui,react,tailwind,nodejs,expressjs,mongodb" />
 
+<div align="center">
+<img src="https://github.com/Durgeshwar-AI/Durgeshwar-AI/blob/output/github-contribution-grid-snake.svg" alt="light">
+</div>
 
 <h3 align="left">Holopin Badges</h3>
 <a href="https://holopin.io/@durgeshwarai">
