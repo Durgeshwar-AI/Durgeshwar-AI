@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,py,java" />
 
 <h3 align="left">Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=materialui,react,tailwind,nodejs,expressjs,mongodb" />
+<img src="https://skillicons.dev/icons?i=materialui,react,bootstrap,tailwind,next,nodejs,expressjs,mongodb" />
 
 <div align="center">
 <img src="https://github.com/Durgeshwar-AI/Durgeshwar-AI/blob/output/github-contribution-grid-snake.svg" alt="light">
