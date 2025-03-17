@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]()
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<h1 align="center">Hello 🌏, I'm Durgeshwar Kumar Shaw</h1>
-<h3 align="center">Aspiring Software Developer | Passionate About Technology </h3>
+<h1 align="center"><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px"></h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=I+am+Durgeshwar+Kumar+Shaw;Web-Developer;OPEN+SOURCE;CODING;AIML)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Durgeshwar-AI&label=Profile%20views&color=0e75b6&style=flat&color=green" alt="Durgeshwar-AI" /> </p>
@@ -27,6 +28,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Frameworks</h3>
 <img src="https://skillicons.dev/icons?i=materialui,react,tailwind,nodejs,expressjs,mongodb" />
+
 
 <h3 align="left">Holopin Badges</h3>
 <a href="https://holopin.io/@durgeshwarai">
