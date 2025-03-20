@@ -33,6 +33,17 @@ Here are some ideas to get you started:
 <img src="https://github.com/Durgeshwar-AI/Durgeshwar-AI/blob/output/github-contribution-grid-snake.svg" alt="light">
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=410 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Durgeshwar-AI&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&count_private=true&show_icons=true&theme=gotham&rank_icon=github&hide_border=true" alt="readme stats" />
+  <br/>
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&hide=HTML&langs_count=8&layout=compact&theme=nord&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
 <h3 align="left">Holopin Badges</h3>
 <a href="https://holopin.io/@durgeshwarai">
     <img src="https://holopin.me/durgeshwarai" alt="An image of @durgeshwarai's Holopin badges, which is a link to view their full Holopin profile">
