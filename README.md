@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/Durgeshwar-AI/Durgeshwar-AI/blob/output/github-contribution-grid-snake.svg" alt="light">
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Statistics ⚡</h2>
 <br>
 <div align=center>
   <img width=410 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Durgeshwar-AI&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
