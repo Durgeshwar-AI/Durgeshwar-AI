@@ -35,12 +35,13 @@ Here are some ideas to get you started:
 
 <h2 align="center">⚡ Statistics ⚡</h2>
 <br>
-<div align=center>
-  <img width=410 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Durgeshwar-AI&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&count_private=true&show_icons=true&theme=gotham&rank_icon=github&hide_border=true" alt="readme stats" />
+<div align="center">
+  <img width="410" src="https://github-readme-streak-stats.herokuapp.com?user=Durgeshwar-AI&theme=react&hide_border=true&count_private=true" alt="GitHub Streak Stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&theme=gotham&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
   <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&hide=HTML&langs_count=8&layout=compact&theme=nord&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&hide=HTML&langs_count=8&layout=compact&theme=nord&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
+
 
 <br/><br/>
 
