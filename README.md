@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img width=410 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Durgeshwar-AI&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&theme=gotham&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
   <br/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&hide=HTML&langs_count=8&layout=compact&theme=nord&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&hide=HTML&langs_count=8&layout=compact&theme=nord&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&cache_bust=2">
 </div>
 
 
