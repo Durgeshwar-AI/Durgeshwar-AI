@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 [![Durgeshwar-AI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&theme=vue-dark&hide=html&show_icons=true&hide_border=true&layout=compact)](https://github.com/Durgeshwar-AI)
 </div>
 
+# 🏆 GitHub Trophies
+<img src="https://github-trophies.vercel.app/?username=Durgeshwar-AI&theme=onestar&no-frame=true" width="800"/>
+
 
 <br/><br/>
 
