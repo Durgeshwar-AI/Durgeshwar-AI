@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Languages</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,py,java" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,py,java,typescript" />
 
 <h3 align="left">Frameworks</h3>
 <img src="https://skillicons.dev/icons?i=materialui,react,bootstrap,tailwind,next,nodejs,expressjs,mongodb" />
