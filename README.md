@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Durgeshwar-AI&show_icons=true&theme=gotham&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
   <br/>
   
-[![Durgeshwar-AI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&theme=vue-dark&hide=html&show_icons=true&hide_border=true&layout=compact)](https://github.com/Durgeshwar-AI)
+[![Durgeshwar-AI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwar-AI&theme=vue-dark&hide=html,css&show_icons=true&hide_border=true&layout=compact)](https://github.com/Durgeshwar-AI)
 </div>
 
 # 🏆 GitHub Trophies
