@@ -30,8 +30,12 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=materialui,react,bootstrap,tailwind,next,nodejs,expressjs,mongodb,docker" />
 
 <div align="center">
-<img src="https://github.com/Durgeshwar-AI/Durgeshwar-AI/blob/output/github-contribution-grid-snake.svg" alt="light">
+<img src="https://github.com/Durgeshwar-AI/Durgeshwar-AI/blob/output/github-contribution-grid-snake.svg" alt="light">  
 </div>
+
+<h2 align="center">⚡ Contributions Graph ⚡</h2>
+<br>
+<img src="https://ssr-contributions-svg.vercel.app/_/Durgeshwar-AI?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=raise&weeks=50&animation_duration=3&animation_loop=true&theme=blue&widget_size=Small&dark=true&format=svg" alt="3D Contribution Chart" width="100%">
 
 <h2 align="center">⚡ Statistics ⚡</h2>
 <br>
